@@ -7,7 +7,7 @@ pip install --upgrade requests
 ![ScreenShot](https://github.com/alimo7amed93/JuniperRestAPIDemo/blob/main/JvirtualLabs.png)
 
 ### Whitelist your IP as allowed prefix to be able to access remotely
-![ScreenShot](https://github.com/alimo7amed93/JuniperRestAPIDemo)
+![ScreenShot](https://github.com/alimo7amed93/JuniperRestAPIDemo/blob/main/IP%20setting.png)
 
 ### Utilize REST-API explorer after enabling and accessing it from the node
 ![ScreenShot](https://github.com/alimo7amed93/JuniperRestAPIDemo/blob/main/rest-api-exp.png)
